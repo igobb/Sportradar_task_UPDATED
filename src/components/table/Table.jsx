@@ -1,7 +1,7 @@
 import axios from "axios";
 import {React, useState, useEffect } from "react";
 import {useNavigate} from 'react-router-dom';
-import './Table.css'
+import './Table.scss'
 
 import Table from 'react-bootstrap/Table';
 import TableDropdown from "./table_dropdown/TableDropdown";
