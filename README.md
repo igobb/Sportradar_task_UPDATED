@@ -120,6 +120,7 @@ https://api.sportradar.us/soccer/trial/v4/en/competitions/sr:competition:202/sea
 * React Hooks
 * Axios for fetch API
 * Cors anywhere heroku app (https://cors-anywhere.herokuapp.com)
+* SCSS
 
 ## Setup
 To run this project, turn on 'Allow CORS: Access-Control-Allow-Origin' extension and open this link:
